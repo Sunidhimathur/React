@@ -72,6 +72,7 @@ This is a React Web App Final Assignment of my Massive Open Online Course (MOOC)
 
 **Nidhi Mathur**
 
+<br><br>
 
 ## Available Scripts
 
