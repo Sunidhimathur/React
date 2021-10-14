@@ -47,7 +47,7 @@ This is a React Web App Final Assignment of my Massive Open Online Course (MOOC)
 
 ![image](https://github.com/Sunidhimathur/React/blob/main/ss/13.png)
 
-# Dish Details 
+# Dish Details 🌭🍕🍔🥪
 
 ![image](https://github.com/Sunidhimathur/React/blob/main/ss/14.png)
 
@@ -66,6 +66,11 @@ This is a React Web App Final Assignment of my Massive Open Online Course (MOOC)
 # Add Comment Window
 
 ![image](https://github.com/Sunidhimathur/React/blob/main/ss/19.png)
+
+
+# Author Name
+
+**Nidhi Mathur**
 
 
 ## Available Scripts
