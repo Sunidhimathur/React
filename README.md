@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+To Run the React Web App:
+1. For Client-Server Communication - Setting up a Server using json-server by running following commands in terminal:
+   npm install json-server -g
+   json-server --watch db.json -p 3001 -d 2000
+2. Run the application by using below command in terminal:
+   npm start   
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
