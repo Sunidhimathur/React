@@ -11,7 +11,7 @@ To Run the React Web App:
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Information ✅
-This is a React Web App Final Assignment of my Massive Open Online Course (MOOC). The Course name is Front-End Web Development with React by The Hong Kong University of Science and Technology From Coursera. In this App, there is a Home page having all the necessary details, About page where the details of leaders are mentioned, Menu page where all the dish details are there, Contact page where the contact details and a feedback form are there. You can sign-up create your account, login. You can comment for any dish you like and also you can give your feedback about the dishes. Also, after submitting the feedback form you will get an alert message on your screen 😃
+This is a React Web App Final Assignment of my Massive Open Online Course (MOOC). The Course name is Front-End Web Development with React by The Hong Kong University of Science and Technology From Coursera. In this App, there is a Home page having all the necessary details, About page where the details of leaders are mentioned, Menu page where all the dish details are there, Contact page where the contact details and a feedback form are there. You can login your account. You can comment for any dish you like and also you can give your feedback about the dishes. Also, after submitting the feedback form you will get an alert message on your screen 😃
 
 # Preview Of My Website 🤩🤩
 
@@ -24,6 +24,48 @@ This is a React Web App Final Assignment of my Massive Open Online Course (MOOC)
 ![image](https://github.com/Sunidhimathur/React/blob/main/ss/3.png)
 
 ![image](https://github.com/Sunidhimathur/React/blob/main/ss/4.png)
+
+# About Us Page
+
+![image](https://github.com/Sunidhimathur/React/blob/main/ss/5.png)
+
+![image](https://github.com/Sunidhimathur/React/blob/main/ss/6.png)
+
+![image](https://github.com/Sunidhimathur/React/blob/main/ss/7.png)
+
+![image](https://github.com/Sunidhimathur/React/blob/main/ss/8.png)
+
+![image](https://github.com/Sunidhimathur/React/blob/main/ss/9.png)
+
+# Menu Page
+
+![image](https://github.com/Sunidhimathur/React/blob/main/ss/10.png)
+
+![image](https://github.com/Sunidhimathur/React/blob/main/ss/11.png)
+
+![image](https://github.com/Sunidhimathur/React/blob/main/ss/12.png)
+
+![image](https://github.com/Sunidhimathur/React/blob/main/ss/13.png)
+
+# Dish Details 
+
+![image](https://github.com/Sunidhimathur/React/blob/main/ss/14.png)
+
+![image](https://github.com/Sunidhimathur/React/blob/main/ss/15.png)
+
+# Contact Page
+
+![image](https://github.com/Sunidhimathur/React/blob/main/ss/16.png)
+
+![image](https://github.com/Sunidhimathur/React/blob/main/ss/17.png)
+
+# Login Window
+
+![image](https://github.com/Sunidhimathur/React/blob/main/ss/18.png)
+
+# Add Comment Window
+
+![image](https://github.com/Sunidhimathur/React/blob/main/ss/19.png)
 
 
 ## Available Scripts
