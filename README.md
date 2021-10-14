@@ -1,13 +1,30 @@
 # Getting Started with Create React App
 
+# React Web App
+
 To Run the React Web App:
 1. For Client-Server Communication - Setting up a Server using json-server by running following command in terminal:
    json-server --watch db.json -p 3001 -d 2000
 2. Run the application by using below command in terminal:
    npm start   
 
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Information ✅
+This is a React Web App Final Assignment of my Massive Open Online Course (MOOC). The Course name is Front-End Web Development with React by The Hong Kong University of Science and Technology From Coursera. In this App, there is a Home page having all the necessary details, About page where the details of leaders are mentioned, Menu page where all the dish details are there, Contact page where the contact details and a feedback form are there. You can sign-up create your account, login. You can comment for any dish you like and also you can give your feedback about the dishes. Also, after submitting the feedback form you will get an alert message on your screen 😃
+
+# Preview Of My Website 🤩🤩
+
+# Home Page
+
+![image](https://github.com/Sunidhimathur/React/blob/main/ss/1.png)
+
+![image](https://github.com/Sunidhimathur/React/blob/main/ss/2.png)
+
+![image](https://github.com/Sunidhimathur/React/blob/main/ss/3.png)
+
+![image](https://github.com/Sunidhimathur/React/blob/main/ss/4.png)
+
 
 ## Available Scripts
 
